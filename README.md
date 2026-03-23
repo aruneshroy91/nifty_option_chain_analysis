@@ -1,7 +1,3 @@
-Here’s a **clean GitHub README in pure Markdown**, no special symbols or UI elements — you can paste this directly:
-
----
-
 # NIFTY Options Analytics Engine
 
 ## Overview
@@ -120,14 +116,3 @@ max_pain = calculate_max_pain(option_df)
 
 This project is for educational and research purposes only.
 It does not constitute financial advice.
-
----
-
-## Contributing
-
-Contributions are welcome.
-Feel free to fork the repository and submit a pull request.
-
----
-
-If you want, next I can help you add a **backtesting section + results (Sharpe, drawdown)** — that’s what really makes this stand out for quant roles.
