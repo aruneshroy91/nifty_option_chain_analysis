@@ -1,4 +1,4 @@
-**📊 NIFTY Options Analytics Engine
+** NIFTY Options Analytics Engine
 🚀 Overview
 
 This project builds a quantitative options analytics engine for NIFTY, designed to extract actionable signals from raw option chain data.
